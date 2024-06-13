@@ -1,0 +1,35 @@
+
+.navbar{
+    width: 30%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.search{
+    width: 70%;
+}
+.select{
+    width: 20%;
+    margin-left: 10%;
+}
+@media screen and (max-width:550px) {
+    .fm{
+        flex-direction: column !important;
+    }  
+    .search{
+        margin-top: 1%;
+        width: 50%;
+        margin-bottom: 1%;
+    }
+    .smbtn{
+        width: 20%;
+        margin: 1%;
+    }
+    .select{
+        margin-left: 1%;
+    }
+    .imagg{
+        width: 13%;
+    }
+}

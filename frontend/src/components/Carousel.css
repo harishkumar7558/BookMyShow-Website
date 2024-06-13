@@ -1,0 +1,8 @@
+.arrbut{
+    width: 3%;
+    border: 2px solid rgb(73, 42, 124);
+    border-radius: 20%;
+    height: 6vh;
+    background-color: rgb(6, 6, 6);
+    margin-top: 10%;
+}

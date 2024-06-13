@@ -1,0 +1,8 @@
+.cf{
+    background-color: black;
+}
+@media screen and (max-width:550px) {
+    .list{
+        display: none !important;
+    }
+}
